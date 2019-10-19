@@ -1,0 +1,11 @@
+The editor Atom is something that I discovered recently. I think that the editor Atom is very useful and easy to use for
+a lot of reasons. First of all, editor Atom is very clear and the instructions on how to use it are very clear and easy
+to understand. Secondly, it has git control and it was developed by GitHub. Also, it's free to use, which is great. 
+Editor Atom is also very convenient to use, because it was developed by GitHub. But I prefer to use the command-based 
+method used in Labs 1 and 2. The main reason for this is because I'm already used to it and I have more experience using 
+command-based method then editor Atom, but I'm sure that I could learn to use both very efficiently.
+
+For the use of git from NetBeans: In the Projects window, right-click the file you want to add. Then just follow the usual
+way to commit our changes/documents. There are all the explications with details on the official site of NetBeans, I think 
+that it' very well explained and very clear. What I dicovered is the fact that I can use git from NetBeans, I didn't even 
+know that it was possible and now it's easier to use git, because I can use it directly from NetBeans.
